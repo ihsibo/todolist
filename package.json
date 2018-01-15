@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rootkick/todolist/issues"
   },
-  "homepage": "https://github.com/rootkick/todolist#readme"
+  "homepage": "https://github.com/rootkick/todolist#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
